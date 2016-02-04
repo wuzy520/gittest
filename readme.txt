@@ -1,1 +1,1 @@
-git is NB thing
+git is a distributed version control system
